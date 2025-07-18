@@ -48,5 +48,3 @@ if __name__ == "__main__":
         main(argv[1])
     else:
         print("Usage: ./0-gather_data_from_an_API.py <employee_id>")
-
-
